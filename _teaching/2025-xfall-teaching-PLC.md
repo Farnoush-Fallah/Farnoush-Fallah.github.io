@@ -8,7 +8,4 @@ date: 2025-02-01
 location: "Tehran, Iran"
 ---
 
-As part of the revised structure of the course, I designed the first homework assignment under the framework introduced by [Dr. Ghassemi](https://scholar.google.com/citations?user=ymM5kfAAAAAJ&hl=en). The assignment was developed to move beyond repetition of lecture material and instead guide students through exploring advanced topics with new resources and step-by-step progression. Recognizing the impact of modern tools such as LLMs and chatbots, I structured the work to encourage their effective use while maintaining academic rigor, helping students engage more deeply and develop independent problem-solving skills.  
-
-
-
+Currently serving as a teaching assistant under the supervision of [Dr. Ghassemi](https://scholar.google.com/citations?user=ymM5kfAAAAAJ&hl=en), I am responsible for designing and grading one of the course’s five homework assignments. My work focuses on context-free grammars and the parsing phase of compilers, ensuring that the assignment is both aligned with course objectives and appropriately challenging for students.

@@ -8,6 +8,4 @@ date: 2024-10-01
 location: "Tehran, Iran"
 ---
 
-As a Teaching Assistant under the supervision of [Dr. Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en) and [Dr. Vahabie](https://scholar.google.com/citations?user=Gk4iZdUAAAAJ&hl=en), I contributed to both instructional and evaluative aspects of the course, which was jointly offered to Computer Engineering and Electrical Engineering students (≈150 students enrolled). My responsibilities included designing and grading a homework assignment on random variables and discrete probability distributions, delivering a guest lecture on advanced extensions of these topics to support interested students, and assisting in the grading of final examinations.
-
-
+As a teaching assistant for a joint course offered to computer and electrical engineering students, I was tasked with designing and grading one of the homework assignments, taken by around 150 students. In addition, I contributed to grading the midterm exam. This work was carried out under the supervision of [Dr. Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en) (Computer Engineering cohort) and [Dr. Vahabie](https://scholar.google.com/citations?user=Gk4iZdUAAAAJ&hl=en) (Electrical Engineering cohort).

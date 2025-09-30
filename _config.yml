@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Farjad Fallah"
+title                    : "Farnoush Fallah"
 title_separator          : "-"
-name                     : &name "Farjad"
+name                     : &name "Farnoush"
 description              : &description "personal description"
-url                      : https://farjadfallah.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://Farnoushfallah.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic_3.png"
-  name             : "Farjad Fallah"
+  avatar           : "farnoush_pic.jpg"
+  name             : "Farnoush Fallah"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   # location         : "Tehran, Iran"
   employer         : "University of Tehran"
   uri              : # URL
-  email            : "farjadfallah@gmail.com" 
+  email            : "farnoushfallah05@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "farjadfallah"
+  github           : "Farnoush-Fallah"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
